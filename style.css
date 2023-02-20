@@ -109,14 +109,15 @@ a:hover {
 }
 
 .image-text {
+    
     position: absolute;
-    margin-top: 200px;
+    margin-top: 180px;
     margin-left: 100px;
-    width: 45%;
+    width: 50%;
     font-size: 1.07em;
     line-height: 1.5;
     color: white;
-    overflow: hidden;
+    overflow: scroll;
 }
 
 #contact {
