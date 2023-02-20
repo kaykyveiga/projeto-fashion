@@ -116,6 +116,7 @@ a:hover {
     font-size: 1.07em;
     line-height: 1.5;
     color: white;
+    overflow: hidden;
 }
 
 #contact {
@@ -133,9 +134,9 @@ footer {
 }
 
 footer p {
-    padding: 20px;
+    padding: 15px;
     text-align: center;
     text-transform: uppercase;
     font-size: 10px;
-    letter-spacing: 5px;
+    letter-spacing: 4px;
 }
