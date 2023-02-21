@@ -46,7 +46,7 @@ a:hover {
     color: white;
 }
 
-.main-content{
+.main-content {
     width: 85%;
     margin: auto;
 }
@@ -59,7 +59,7 @@ a:hover {
 
 }
 
-.main-content-text{
+.main-content-text {
     text-indent: 30px;
     text-align: center;
     letter-spacing: 2px;
@@ -109,7 +109,7 @@ a:hover {
 }
 
 .image-text {
-    
+
     position: absolute;
     margin-top: 180px;
     margin-left: 100px;
