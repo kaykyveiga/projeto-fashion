@@ -1,20 +1,72 @@
-@media screen and (max-width: 600px){
-    nav{
+@media screen and (max-width: 600px) {
+    ::-webkit-scrollbar {
+        width: 0px;
+        height: 0px;
+    }
+
+    #main {
+        width: 90%;
+    }
+
+    #main-image {
+        height: 300px;
+    }
+
+    nav {
         margin: -10px;
     }
-    #portifolio{
+
+    #portifolio {
         display: none;
     }
-    #logo{
+
+    #logo {
         margin-left: -130px;
     }
-    .main-content-title{
+
+    .main-content-title {
         margin-top: 40px;
         font-size: 1.3em;
     }
-    .main-content-text{
+
+    .main-content-text {
         font-size: 16px;
         text-indent: 8px;
         line-height: 1.4;
+    }
+
+    .gallery-card {
+        margin: 3px;
+    }
+
+    .gallery-title {
+        margin-top: 10px;
+        letter-spacing: 1px;
+        font-size: 14px;
+    }
+
+    .gallery-text {
+        font-size: 13px;
+    }
+
+    .photos {
+        height: 120px;
+    }
+
+    .image {
+        height: 400px;
+    }
+
+    .image-title {
+        margin: 20px 0px 0px 30px;
+        font-size: 2em;
+    }
+
+    .image-text {
+        margin-top: 140px;
+        margin-left: 30px;
+        width: 50%;
+    
+        
     }
 }
