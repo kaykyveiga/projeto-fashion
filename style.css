@@ -46,12 +46,12 @@ a:hover {
     color: white;
 }
 
-.text {
+.main-content{
     width: 85%;
     margin: auto;
 }
 
-.text h1 {
+.main-content-title {
     text-align: center;
     margin-top: 70px;
     color: #000000c9;
@@ -59,7 +59,7 @@ a:hover {
 
 }
 
-.text p {
+.main-content-text{
     text-indent: 30px;
     text-align: center;
     letter-spacing: 2px;

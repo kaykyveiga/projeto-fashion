@@ -1,0 +1,20 @@
+@media screen and (max-width: 600px){
+    nav{
+        margin: -10px;
+    }
+    #portifolio{
+        display: none;
+    }
+    #logo{
+        margin-left: -130px;
+    }
+    .main-content-title{
+        margin-top: 40px;
+        font-size: 1.3em;
+    }
+    .main-content-text{
+        font-size: 16px;
+        text-indent: 8px;
+        line-height: 1.4;
+    }
+}
