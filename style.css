@@ -117,10 +117,14 @@ a:hover {
     font-size: 1.07em;
     line-height: 1.5;
     color: white;
-    overflow: scroll;
+    
 }
 
-#contact {
+.alt-text{
+    display: none;
+}
+
+.contact {
     color: #094153;
     margin-top: 50px;
     margin-bottom: 50px;
