@@ -12,17 +12,8 @@
         height: 290px;
     }
 
-   nav{
-    margin-right: -20px;
-    letter-spacing: -1px;
-   }
-
-    #portifolio {
+    nav {
         display: none;
-    }
-
-    #logo {
-        margin-left: -130px;
     }
 
     .main-content-title {
@@ -70,14 +61,14 @@
     .alt-text {
         display: block;
         position: absolute;
-        margin: 132px 0px 0px 30px;
-        width: 50%;
+        margin: 135px 0px 0px 30px;
+        width: 70%;
         font-size: 1.07em;
         line-height: 1.5;
-        color: white; 
+        color: white;
     }
 
-    .contact{
+    .contact {
         font-size: 18px;
     }
 }
